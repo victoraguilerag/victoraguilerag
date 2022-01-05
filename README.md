@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @victoraguilerag
 - 👀 I’m interested in Web
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on 🧰
-- 📫 How to reach me -> here
+- 📫 How to reach me -> victoraguilerago@gmail.com
 
 <!---
 victoraguilerag/victoraguilerag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
